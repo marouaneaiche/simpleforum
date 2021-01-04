@@ -49,7 +49,7 @@ To satisfy the high availability requirement, we will place a cluster of load ba
 
 - **Logical Architecture**
 <p align="center">
-  <img src="media/logical-arcitecture.png">
+  <img src="media/logical-architecture.png">
 </p>
 
 ## Design
