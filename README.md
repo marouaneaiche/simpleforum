@@ -1,5 +1,5 @@
 # simpleforum
-The objective of this project is to design and develop a ¬¬message board/forum web application. The application allows users to register, and offers a number of forums where users can make posts and interact with other users. 
+The objective of this project is to design and develop a message board/forum web application. The application allows users to register, and offers a number of forums where users can make posts and interact with other users. 
 ## Requirements
 ### Functional Requirements:
 -	Roles:
